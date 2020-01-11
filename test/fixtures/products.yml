@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: sneakers
+  description: MyText
+  image_url: download (1).jpeg
+  price: 9.99
+
+two:
+  title: sneakers
+  description: MyText
+  image_url: download (1).jpeg
+  price: 9.99
